@@ -2,6 +2,16 @@
 
 This project is a machine learning model that predicts whether a customer is likely to accept a personal loan offer. The model was built using Python and scikit-learn.
 
+
+## Overview
+
+The goal of this project is to build a machine learning model that can predict whether a customer is likely to accept a personal loan offer. The model uses a dataset of customer information, including demographic data, financial data, and credit history, to make predictions.
+
+The model was built using Python and scikit-learn, a popular machine learning library for Python. The dataset was preprocessed and cleaned using pandas, a library for data manipulation and analysis in Python.
+
+The model was trained using a logistic regression algorithm, which is a type of supervised learning algorithm used for classification problems. The model was evaluated using various performance metrics, including accuracy, precision, recall, and F1 score.
+
+
 ## Getting Started
 
 To run this project, you will need to have Python 3 and Jupyter Notebook installed on your computer. You can download Python [here](https://www.python.org/downloads/) and Jupyter Notebook [here](https://jupyter.org/install).
